@@ -30,3 +30,4 @@ group :test do
 end
 
 gem 'simple_form'
+gem 'faker', '~> 2.17'
