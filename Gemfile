@@ -31,3 +31,4 @@ end
 
 gem 'simple_form'
 gem 'faker', '~> 2.17'
+gem 'devise', '~> 4.8'
